@@ -17,7 +17,7 @@ body{
     background-color: hsl(47, 88%, 63%);
 }
 main{
-    width: 500px;
+    width: 421px;
     background-color: hsl(0, 0%, 100%);
     display: flex;
     justify-content: center;
@@ -29,7 +29,7 @@ main{
 
 .cover img{
 
-    width: 500px;
+    width: 426px;
     padding: 20px;
     border-radius: 39px;
     /* padding: 10px; */
